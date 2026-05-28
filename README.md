@@ -27,16 +27,21 @@ I'm a passionate **Data Science Analyst** with **1 year of experience** turning 
 ### 🐍 Backend & AI/ML
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
-![FastAPI](https://img.shields.io/badge/REST%20APIs-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
 ### 🤖 AI & LLM
-![OpenAI](https://img.shields.io/badge/LLM%20Building-412991?style=for-the-badge&logo=openai&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG%20Pipelines-FF6F00?style=for-the-badge&logo=databricks&logoColor=white)
+![LLM Building](https://img.shields.io/badge/LLM%20Building-412991?style=for-the-badge&logo=openai&logoColor=white)
+![RAG Pipelines](https://img.shields.io/badge/RAG%20Pipelines-FF6F00?style=for-the-badge&logo=databricks&logoColor=white)
 ![Model Finetuning](https://img.shields.io/badge/Model%20Finetuning-E44D26?style=for-the-badge&logo=huggingface&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![Unsloth](https://img.shields.io/badge/Unsloth-7B2FBE?style=for-the-badge&logo=lightning&logoColor=white)
 
 ### 🧰 Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
 
@@ -44,14 +49,14 @@ I'm a passionate **Data Science Analyst** with **1 year of experience** turning 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=yvishnuvardhanreddy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=yvishnuvardhanreddy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="48%" alt="GitHub Stats" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=yvishnuvardhanreddy&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Streak" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yvishnuvardhanreddy&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="50%" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yvishnuvardhanreddy&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800" width="50%" alt="Top Languages" />
 
 </div>
 
@@ -61,7 +66,7 @@ I'm a passionate **Data Science Analyst** with **1 year of experience** turning 
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=yvishnuvardhanreddy&theme=darkhub&no-frame=true&no-bg=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
+<img src="https://github-profile-trophy.vercel.app/?username=yvishnuvardhanreddy&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=6" alt="GitHub Trophies" />
 
 </div>
 
