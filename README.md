@@ -49,14 +49,14 @@ I'm a passionate **Data Science Analyst** with **1 year of experience** turning 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=yvishnuvardhanreddy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="48%" alt="GitHub Stats" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yvishnuvardhanreddy&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Streak" />
+<img src="https://github-readme-stats.vercel.app/api?username=yvishnuvardhanreddy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" width="48%" alt="GitHub Stats" />
+<img src="https://streak-stats.demolab.com/?user=yvishnuvardhanreddy&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Streak" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yvishnuvardhanreddy&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800" width="50%" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yvishnuvardhanreddy&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="50%" alt="Top Languages" />
 
 </div>
 
