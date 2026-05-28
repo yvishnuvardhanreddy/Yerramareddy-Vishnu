@@ -14,7 +14,7 @@
 
 I'm a passionate **GenAI & LLM Engineer** with **1 year of hands-on experience** building and deploying production-grade AI applications. I specialize in **fine-tuning LLMs (LLaMA)**, designing **RAG pipelines**, and developing end-to-end backend systems using **FastAPI** and **Python**. Successfully delivered real-world AI products including an LLM-powered chatbot, email automation workflows, and an HR AI Assistant.
 
-- 🔭 Currently fine-tuning **LLaMA models** with PEFT/LoRA at **PiLog Group, Hyderabad**
+- 🔭 Currently fine-tuning **LLaMA models** with PEFT/LoRA 
 - 🧠 Deep expertise in **LangChain, LangGraph, RAG, Vector DBs**
 - 🚀 Deployed AI apps to production using **Docker & IIS**
 - ✍️ I share knowledge on **YouTube**, **Medium**, and **Instagram**
@@ -24,8 +24,8 @@ I'm a passionate **GenAI & LLM Engineer** with **1 year of hands-on experience**
 
 ## 💼 Work Experience
 
-### 🏢 Trainee Data Science Analyst — PiLog Group *(May 2025 – Present)*
-> Hyderabad, Telangana
+### 🏢 Data Science Analyst 
+
 
 - 🤖 Fine-tuned a custom **LLaMA LLM** on company-specific domain data using **PEFT/LoRA**
 - 💬 Built a production **ChatGPT-powered RAG application** using OpenAI GPT API + FastAPI, deployed on IIS
@@ -134,29 +134,9 @@ I'm a passionate **GenAI & LLM Engineer** with **1 year of hands-on experience**
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com/?user=yvishnuvardhanreddy&theme=tokyonight&hide_border=true" width="60%" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yvishnuvardhanreddy&theme=tokyo-night&hide_border=true&area=true" width="95%" />
-
-</div>
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=yvishnuvardhanreddy&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=6" />
-
-</div>
 
 ---
 
